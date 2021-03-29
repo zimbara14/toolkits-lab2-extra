@@ -10,7 +10,7 @@ on the pop-up window and see the result, thus providing a satisfying UX.
 In order to use this extension, the structure of the project must be like the picture shows:
 ![structure](https://github.com/zimbara14/toolkits-lab2-extra/blob/master/description.png)
 
-Otherwise, the problem occures with these lines:
+Otherwise, the problem occurs with these lines:
 ```
 import sys
 sys.path.insert(1, '/Users/zimbara/Desktop/code/toolkits/lab2')
